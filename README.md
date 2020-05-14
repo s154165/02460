@@ -1,5 +1,8 @@
 # 02460
-advanced machine learning projekt
-Helena, Laura og Ann
-...dsnfjshej
+Advanced machine learning project \\
+Course number: 02460
+Project: OPTIMIZATION OF A GATED RECURRENT UNIT (GRU) BASED RECURRENT NEURALNETWORK FOR CLASSIFYING TEXT DATA 
+
+Helena(s153229), Laura(s164541) & Ann(s154165)
+
 # 02460
