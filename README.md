@@ -5,7 +5,7 @@ Course number: 02460
 
 Project: OPTIMIZATION OF A GATED RECURRENT UNIT (GRU) BASED RECURRENT NEURALNETWORK FOR CLASSIFYING TEXT DATA 
 
-BoW.py
+BoW.py - Bags of Words method with Naïve Bayes Classifyer
 
 GRU_HU.py - optimize number of hidden units for GRU based RNN
 
